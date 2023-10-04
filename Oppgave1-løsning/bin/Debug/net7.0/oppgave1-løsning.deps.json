@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "oppgave1-løsning/1.0.0": {
+        "dependencies": {
+          "felles": "1.0.0"
+        },
+        "runtime": {
+          "oppgave1-løsning.dll": {}
+        }
+      },
+      "felles/1.0.0": {
+        "runtime": {
+          "felles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "oppgave1-løsning/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "felles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

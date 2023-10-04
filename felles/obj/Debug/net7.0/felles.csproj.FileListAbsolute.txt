@@ -1,0 +1,12 @@
+C:\Users\svar\Documents\dev\dotnet-intro-extension\felles\obj\Debug\net7.0\felles.csproj.AssemblyReference.cache
+C:\Users\svar\Documents\dev\dotnet-intro-extension\felles\obj\Debug\net7.0\felles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svar\Documents\dev\dotnet-intro-extension\felles\obj\Debug\net7.0\felles.AssemblyInfoInputs.cache
+C:\Users\svar\Documents\dev\dotnet-intro-extension\felles\obj\Debug\net7.0\felles.AssemblyInfo.cs
+C:\Users\svar\Documents\dev\dotnet-intro-extension\felles\obj\Debug\net7.0\felles.csproj.CoreCompileInputs.cache
+C:\Users\svar\Documents\dev\dotnet-intro-extension\felles\bin\Debug\net7.0\felles.deps.json
+C:\Users\svar\Documents\dev\dotnet-intro-extension\felles\bin\Debug\net7.0\felles.dll
+C:\Users\svar\Documents\dev\dotnet-intro-extension\felles\bin\Debug\net7.0\felles.pdb
+C:\Users\svar\Documents\dev\dotnet-intro-extension\felles\obj\Debug\net7.0\felles.dll
+C:\Users\svar\Documents\dev\dotnet-intro-extension\felles\obj\Debug\net7.0\refint\felles.dll
+C:\Users\svar\Documents\dev\dotnet-intro-extension\felles\obj\Debug\net7.0\felles.pdb
+C:\Users\svar\Documents\dev\dotnet-intro-extension\felles\obj\Debug\net7.0\ref\felles.dll
