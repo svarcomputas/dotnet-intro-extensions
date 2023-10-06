@@ -1,4 +1,4 @@
-﻿using FellesEntiteter;
+﻿using felles;
 
 namespace oppgave1;
 
